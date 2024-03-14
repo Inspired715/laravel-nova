@@ -189,7 +189,7 @@ When adding a new feature or fixing a bug, please add corresponding unit tests. 
 
 Run PHPUnit by calling `composer test`.
 
-## Made with ❤️ for open source
+## Made with ❤️ for open sources
 
 At [Whitecube](https://www.whitecube.be) we use a lot of open source software as part of our daily work.
 So when we have an opportunity to give something back, we're super excited!
