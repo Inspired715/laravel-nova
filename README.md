@@ -13,7 +13,7 @@ An easy & complete Flexible Field for Laravel Nova, perfect for repeated and fle
 Here's a very condensed guide to get you started asap.
 See the full docs at [https://whitecube.github.io/nova-flexible-content](https://whitecube.github.io/nova-flexible-content)
 
-### Install
+### Installs
 
 ```
 composer require whitecube/nova-flexible-content
